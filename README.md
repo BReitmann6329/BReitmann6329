@@ -48,7 +48,7 @@ My Command Line Shell is: PowerShell 🐲
 8. Move the file named `test.txt` into `DirA`: <mark>move-item -path "C:\users\w028bsr\test.txt" -destination "C:\users\w028bsr\DirA"</mark>
 9. Contents of `test.txt`: <mark>Get-content -path "C:\users\w028bsr\dira\test.txt"</mark> this will read the current contents
 ```
-add-content -path "c:\users\w028bsr\dira\test.txt" -value 'You are going to do great this semester' this adds the content to the text file
+==add-content -path "c:\users\w028bsr\dira\test.txt" -value 'You are going to do great this semester'== this adds the content to the text file
 ```
 10. Make a copy of `test.txt` named `copy.txt` in `DirA`: <mark>copy-item "c:\users\w028bsr\dira\test.txt" -destination "c:\users\w028bsr\dira\copy.text"</mark>
 11. View the contents of `DirA`: <mark>ls "c:\users\w028bsr\dira"</mark>
