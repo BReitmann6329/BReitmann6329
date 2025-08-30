@@ -1,6 +1,6 @@
 # Lab 01
 
-** * Name: Brian Reitmann * **
+***Name: Brian Reitmann***
 Email: brian.reitmann@wright.edu
 
 ## Part 1 - GitHub Profile
@@ -38,22 +38,22 @@ My Command Line Shell is: PowerShell
 
 ### Navigating My OS on the Command Line
 
-1. Full / absolute path to your user's home directory:  == $home ==
-2. Create a directory named `DirA`: == mkdir DirA ==
-3. Create a directory named `Dir B`: == mkdir DirB ==
-4. Go into `DirA`: == set-location DirA ==
-5. Go into `Dir B` from `DirA`: == set-location -Path C:\users\w028bsr\DirB == 
-6. Return to your user's home directory: == cd $home ==
-7. Create a file named `test.txt`: == new-item test.text == 
-8. Move the file named `test.txt` into `DirA`: == move-item -path "C:\users\w028bsr\test.txt" -destination "C:\users\w028bsr\DirA" ==
-9. Contents of `test.txt`: == Get-content -path "C:\users\w028bsr\dira\test.txt" == this will read the current contents
+1. Full / absolute path to your user's home directory:  ==$home==
+2. Create a directory named `DirA`: ==mkdir DirA==
+3. Create a directory named `Dir B`: ==mkdir DirB==
+4. Go into `DirA`: ==set-location DirA==
+5. Go into `Dir B` from `DirA`: ==set-location -Path C:\users\w028bsr\DirB== 
+6. Return to your user's home directory: ==cd $home==
+7. Create a file named `test.txt`: ==new-item test.text== 
+8. Move the file named `test.txt` into `DirA`: ==move-item -path "C:\users\w028bsr\test.txt" -destination "C:\users\w028bsr\DirA"==
+9. Contents of `test.txt`: ==Get-content -path "C:\users\w028bsr\dira\test.txt"== this will read the current contents
 ```
-== add-content -path "c:\users\w028bsr\dira\test.txt" -value 'You are going to do great this semester' == this adds the content to the text file
+==add-content -path "c:\users\w028bsr\dira\test.txt" -value 'You are going to do great this semester'== this adds the content to the text file
 ```
-10. Make a copy of `test.txt` named `copy.txt` in `DirA`: == copy-item "c:\users\w028bsr\dira\test.txt" -destination "c:\users\w028bsr\dira\copy.text" ==
-11. View the contents of `DirA`: == ls "c:\users\w028bsr\dira" ==
-12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`: == copy-item "c:\users\w028bsr\dira\test.txt" -destination "c:\users\w028bsr\dirb\fodder.txt" ==
-13. Delete / remove both `fodder.txt` AND `Dir B`: == remove-item "c:\users\w028bsr\dirb" == this removes the full directory of "DirB" but you must confirm that you want to delete the "ChildItem" which is the "fodder.txt" ==
+10. Make a copy of `test.txt` named `copy.txt` in `DirA`: ==copy-item "c:\users\w028bsr\dira\test.txt" -destination "c:\users\w028bsr\dira\copy.text"==
+11. View the contents of `DirA`: ==ls "c:\users\w028bsr\dira"==
+12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`: ==copy-item "c:\users\w028bsr\dira\test.txt" -destination "c:\users\w028bsr\dirb\fodder.txt"==
+13. Delete / remove both `fodder.txt` AND `Dir B`: ==remove-item "c:\users\w028bsr\dirb"== this removes the full directory of "DirB" but you must confirm that you want to delete the "ChildItem" which is the "fodder.txt"
 
 ## Citations
 
