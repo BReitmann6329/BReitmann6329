@@ -30,11 +30,11 @@ Email: brian.reitmann@wright.edu
 ## Part 3 - Command Line Navigation
 
 My OS is:
-- [:rage:] Windows
-- [] Linux
-- [] Mac
+- [x] Windows 👍
+- [] Linux 😕
+- [] Mac 👎
 
-My Command Line Shell is: PowerShell
+My Command Line Shell is: PowerShell 🐲
 
 ### Navigating My OS on the Command Line
 
