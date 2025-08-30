@@ -10,7 +10,7 @@ Email: brian.reitmann@wright.edu
 **My two projects that I will be working on, is to get my CompTIA Network+ certification as well as learning more about scripting in a Linux environment!**
 
 
-1. BReitmann6329 (https://github.com/BReitmann6329/BReitmann6329)😩
+1. BReitmann6329 ( https://github.com/BReitmann6329/BReitmann6329 )😩
 
 ## Part 2 - Research
 
