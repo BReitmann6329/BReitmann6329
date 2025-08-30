@@ -5,12 +5,12 @@ Email: brian.reitmann@wright.edu
 
 ## Part 1 - GitHub Profile
 
-### Hello! My name is Brian Reitmann
+### Hello! My name is Brian Reitmann😈
 *Welcome to my GitHub profile, I am currently a Sophmore pursuing a degree for Information technology and Cyber.*
-**My two projects that I will be working on, is to get my Comptia Network+ certification as well as learning more about learning scripting in a Linux environment!**
+**My two projects that I will be working on, is to get my Comptia Network+ certification as well as learning more about scripting in a Linux environment!**
 
 
-1. BReitmann6329 (https://github.com/BReitmann6329/BReitmann6329)
+1. BReitmann6329 (https://github.com/BReitmann6329/BReitmann6329)😩
 
 ## Part 2 - Research
 
@@ -30,7 +30,7 @@ Email: brian.reitmann@wright.edu
 ## Part 3 - Command Line Navigation
 
 My OS is:
-- [x] Windows
+- [:rage:] Windows
 - [] Linux
 - [] Mac
 
@@ -39,21 +39,21 @@ My Command Line Shell is: PowerShell
 ### Navigating My OS on the Command Line
 
 1. Full / absolute path to your user's home directory:  <mark>$home</mark>
-2. Create a directory named `DirA`: ==mkdir DirA==
-3. Create a directory named `Dir B`: ==mkdir DirB==
-4. Go into `DirA`: ==set-location DirA==
-5. Go into `Dir B` from `DirA`: ==set-location -Path C:\users\w028bsr\DirB== 
-6. Return to your user's home directory: ==cd $home==
-7. Create a file named `test.txt`: ==new-item test.text== 
-8. Move the file named `test.txt` into `DirA`: ==move-item -path "C:\users\w028bsr\test.txt" -destination "C:\users\w028bsr\DirA"==
-9. Contents of `test.txt`: ==Get-content -path "C:\users\w028bsr\dira\test.txt"== this will read the current contents
+2. Create a directory named `DirA`: <mark>mkdir DirA</mark>
+3. Create a directory named `Dir B`: <mark>mkdir DirB</mark>
+4. Go into `DirA`: <mark>set-location DirA</mark>
+5. Go into `Dir B` from `DirA`: <mark>set-location -Path C:\users\w028bsr\DirB</mark>
+6. Return to your user's home directory: <mark>cd $home</mark>
+7. Create a file named `test.txt`: <mark>new-item test.text</mark>
+8. Move the file named `test.txt` into `DirA`: <mark>move-item -path "C:\users\w028bsr\test.txt" -destination "C:\users\w028bsr\DirA"</mark>
+9. Contents of `test.txt`: <mark>Get-content -path "C:\users\w028bsr\dira\test.txt"</mark> this will read the current contents
 ```
-==add-content -path "c:\users\w028bsr\dira\test.txt" -value 'You are going to do great this semester'== this adds the content to the text file
+<mark>add-content -path "c:\users\w028bsr\dira\test.txt" -value 'You are going to do great this semester'</mark> this adds the content to the text file
 ```
-10. Make a copy of `test.txt` named `copy.txt` in `DirA`: ==copy-item "c:\users\w028bsr\dira\test.txt" -destination "c:\users\w028bsr\dira\copy.text"==
-11. View the contents of `DirA`: ==ls "c:\users\w028bsr\dira"==
-12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`: ==copy-item "c:\users\w028bsr\dira\test.txt" -destination "c:\users\w028bsr\dirb\fodder.txt"==
-13. Delete / remove both `fodder.txt` AND `Dir B`: ==remove-item "c:\users\w028bsr\dirb"== this removes the full directory of "DirB" but you must confirm that you want to delete the "ChildItem" which is the "fodder.txt"
+10. Make a copy of `test.txt` named `copy.txt` in `DirA`: <mark>copy-item "c:\users\w028bsr\dira\test.txt" -destination "c:\users\w028bsr\dira\copy.text"</mark>
+11. View the contents of `DirA`: <mark>ls "c:\users\w028bsr\dira"</mark>
+12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`: <mark>copy-item "c:\users\w028bsr\dira\test.txt" -destination "c:\users\w028bsr\dirb\fodder.txt"</mark>
+13. Delete / remove both `fodder.txt` AND `Dir B`: <mark>remove-item "c:\users\w028bsr\dirb"</mark> this removes the full directory of "DirB" but you must confirm that you want to delete the "ChildItem" which is the "fodder.txt"
 
 ## Citations
 
