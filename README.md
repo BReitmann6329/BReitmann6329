@@ -6,8 +6,8 @@ Email: brian.reitmann@wright.edu
 ## Part 1 - GitHub Profile
 
 ### Hello! My name is Brian Reitmann😈
-*Welcome to my GitHub profile, I am currently a Sophmore pursuing a degree for Information technology and Cyber.*
-**My two projects that I will be working on, is to get my Comptia Network+ certification as well as learning more about scripting in a Linux environment!**
+*Welcome to my GitHub profile, I am currently a Sophomore pursuing a degree for Information technology and Cyber.*
+**My two projects that I will be working on, is to get my CompTIA Network+ certification as well as learning more about scripting in a Linux environment!**
 
 
 1. BReitmann6329 (https://github.com/BReitmann6329/BReitmann6329)😩
