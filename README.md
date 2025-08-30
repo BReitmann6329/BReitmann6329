@@ -38,7 +38,7 @@ My Command Line Shell is: PowerShell
 
 ### Navigating My OS on the Command Line
 
-1. Full / absolute path to your user's home directory:  ==$home==
+1. Full / absolute path to your user's home directory:  <mark>$home</mark>
 2. Create a directory named `DirA`: ==mkdir DirA==
 3. Create a directory named `Dir B`: ==mkdir DirB==
 4. Go into `DirA`: ==set-location DirA==
